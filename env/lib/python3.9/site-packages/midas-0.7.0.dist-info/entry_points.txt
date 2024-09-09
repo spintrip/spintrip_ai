@@ -1,0 +1,2 @@
+[console_scripts]
+midas = midas:command_line
